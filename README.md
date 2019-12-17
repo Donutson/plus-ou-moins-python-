@@ -1,0 +1,2 @@
+# plus-ou-moins-python-
+Il s'agit d'un projet ontenant des programmes capables de jouer au jeu du plus ou moins avec des stratégies différentes. Pour le moment il y'a que deux programmes, l'un faissant ses propositions de façons aléatoire et l'autre en utilisant la méthode par dichotomie. Il y'a également un notebook inclus, dans ce notebook je réalise une comparaison des différentes méthodes permettant de gagner au jeu du plus ou moins
